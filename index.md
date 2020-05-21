@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Julia Beckwith is a rising senior at Scripps College in Claremont, CA studying Computer Science and Environmental Analysis. 
 
 ## About My Mentor
 
