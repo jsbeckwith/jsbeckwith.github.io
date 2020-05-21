@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Julia Beckwith
 
 # Short bio or description (displayed in the header)
 description: Summer 2020 DREU Project
@@ -19,6 +19,7 @@ avatar: https://avatars2.githubusercontent.com/u/52939305?s=460&u=c14d491b6483e0
 footer-links:
   email: juliabeckwith54@gmail.com
   linkedin: https://www.linkedin.com/in/julia-b-665181144/
+  github: https://github.com/jsbeckwith
   rss: # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
