@@ -3,8 +3,7 @@ layout: default
 title: Summer 2020 DREU Project Site
 ---
 
-* TOC
-{:toc}
+### [Home](/) . [Weekly Updates](blog.html) .
 
 ## About Julia
 
