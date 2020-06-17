@@ -5,8 +5,6 @@ title: Summer 2020 DREU Project Site
 
 ### [ [Home](/) ] [ [Weekly Updates](blog.html) ]
 
-[About Julia](#about-me) / [About Dr. Caspi](#about-my-mentor) / [AccessMap](#about-my-project) / [Blog](#weekly-updates)
-
 ## About Me
 
 Julia Beckwith is a rising senior at Scripps College in Claremont, CA studying Computer Science and Environmental Analysis. She is interested in the convergence of technology and environmental justice. Previously, she has conducted research at Portland State University as a member of the [Sustaining Urban Places Research Lab](https://www.suprlab.org/).
