@@ -273,18 +273,18 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 }
 
 .wrapper-footer {
   margin-top: 50px;
   background-color: $lightpurple;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
 footer {
