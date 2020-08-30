@@ -19,7 +19,7 @@ Dr. Anat Caspi is the director of the Taskar Center for Accessible Technology at
 
 This summer, I will be working to expand the capabilities of AccessMap. Currently, the application focuses primarily on routing for people with mobility impairments. I will define a new cost function that accounts for unique obstacles faced by people with visual impairments.
 
-At the end of the research period, the final report will be uploaded [here](files/finalreport.pdf).
+You can read my final report [here](files/Beckwith_DREU_FinalReport.pdf)!
 
 ## Weekly Updates
 
